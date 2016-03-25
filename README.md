@@ -1,0 +1,2 @@
+# numerical-simulation-assignment-2
+About Numerical Simulation- Assignment 2: I again faced problems which did not enable me of using github and pandoc and Latex. Thus, the transformation into HTML was not possible. However, I was able to use sharelatex.com and work my assignent thorugh there.After talking with professor Boone, I decided to upload my LaTex assignment pdf output and I used Beamer, from sharelatex.com again, to make my presentation. Thank you very much.
